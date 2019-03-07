@@ -1,2 +1,3 @@
 # Test-PA
-It's a repository just for test.
+이름: 김승화
+학번: 201412144
